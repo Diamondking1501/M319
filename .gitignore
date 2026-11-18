@@ -2,6 +2,7 @@
 .vs/
 **/.vs/
 
+
 # Build files
 bin/
 obj/
@@ -9,3 +10,13 @@ obj/
 # User-specific files
 *.user
 *.suo
+
+# Build results
+[Bb]in/
+[Oo]bj/
+
+# Visual Studio user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
